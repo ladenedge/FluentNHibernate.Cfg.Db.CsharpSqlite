@@ -7,7 +7,7 @@
         <authors>Jay Miller</authors>
         <owners>Jay Miller</owners>
         <licenseUrl>http://creativecommons.org/publicdomain/mark/1.0</licenseUrl>
-        <projectUrl>http://github.com/ladenedge/TestableMultipartStreamProviders</projectUrl>
+        <projectUrl>http://github.com/ladenedge/FluentNHibernate.Cfg.Db.CsharpSqlite</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>CSharpSQLite driver for Fluent NHibernate.</description>
         <releaseNotes/>
