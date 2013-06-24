@@ -18,5 +18,13 @@ namespace FluentNHibernate.Cfg.Db.CsharpSqlite
             Dialect<SQLiteDialect>();
             Raw("query.substitutions", "true=1;false=0"); 
         }
+
+        /// <summary>
+        /// Gets a default instantiation of the class.
+        /// </summary>
+        public static new CsharpSqliteConfiguration Standard
+        {
+            get { return new CsharpSqliteConfiguration(); }
+        }
     }
 }
