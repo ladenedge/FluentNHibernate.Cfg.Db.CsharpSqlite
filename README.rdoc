@@ -1,0 +1,17 @@
+
+= FluentNHibernate.Cfg.Db.CsharpSqlite
+
+FluentNHibernate.Cfg.Db.CsharpSqlite offers a reflection-based driver
+and configuration class to allow the {C#-SQLite library}[https://code.google.com/p/csharp-sqlite/]
+to work underneath {FluentNHibernate}[http://www.fluentnhibernate.org/].
+
+FluentNHibernate.Cfg.Db.CsharpSqlite is available via
+{NuGet}[https://nuget.org/packages/FluentNHibernate.Cfg.Db.CsharpSqlite].
+To install it, run the following command in the {Package Manager Console}[http://docs.nuget.org/docs/start-here/using-the-package-manager-console]:
+
+ PM> Install-Package FluentNHibernate.Cfg.Db.CsharpSqlite
+
+Please see the {wiki}[https://github.com/ladenedge/FluentNHibernate.Cfg.Db.CsharpSqlite/wiki]
+for usage and an example.
+
+This library is part of the {public domain}[http://creativecommons.org/publicdomain/mark/1.0].
