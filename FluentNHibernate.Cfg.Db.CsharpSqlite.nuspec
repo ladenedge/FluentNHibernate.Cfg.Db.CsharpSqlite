@@ -12,7 +12,7 @@
         <description>CSharpSQLite driver for Fluent NHibernate.</description>
         <releaseNotes/>
         <copyright>Copyright DigiData Corp. 2013</copyright>
-        <tags>WebApi AspNetWebApi HttpClient</tags>
+        <tags>sqlite csharpsqlite nhibernate</tags>
         <dependencies>
             <dependency id="Community.CsharpSqlite.SQLiteClient" version="3.7.7.1" />
             <dependency id="FluentNHibernate" version="1.3.0.733" />
